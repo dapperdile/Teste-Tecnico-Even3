@@ -1,7 +1,7 @@
 # Teste Técnico - Even3
 
 Este repositório contém minha solução para o teste técnico da vaga de Programador Júnior na Even3.  
-O teste foi dividido em três partes, cada uma em sua respectiva pasta.
+O teste foi dividido em três partes.
 
 ---
 

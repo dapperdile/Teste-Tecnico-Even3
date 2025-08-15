@@ -8,7 +8,7 @@ O teste foi dividido em três partes, cada uma em sua respectiva pasta.
 ## Estrutura
 
 - **Parte_01_Logica** → Exercício de programação
-- **Parte_02_Comunicacao** → Video explicativo sobre busca binária
+- **Parte_02_Comunicacao** → Vídeo explicativo sobre busca binária: [Assista aqui](https://drive.google.com/file/d/1bhOcxysnQPeQQoVIcJ8S2MpIq-8bfry0/view?usp=sharing)
 - **Parte_03_Frontend** → Página simples de inscrição em evento, com HTML, CSS e JavaScript
 
 ---
